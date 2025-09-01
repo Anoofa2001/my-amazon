@@ -206,7 +206,7 @@
 }
 
 .background-img{
-    background-image: linear-gradient(rgba(255, 0, 0, 0) 70%, rgb(236, 230, 230)100%), url("main.jpg");
+    background-image: linear-gradient(rgba(255, 0, 0, 0) 70%, rgb(236, 230, 230)100%), url("/images/main.jpg");
     height:600px;
     width:100%;
     background-size: cover;
